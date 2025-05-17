@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ReqResClient.Demo/bin/Debug/net6.0
+/ReqResClient.Demo/obj
+/ReqResClient.Tests/bin
+/ReqResClient.Tests/obj
+/.vs/slnx.sqlite
